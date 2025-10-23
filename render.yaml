@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: vehicle-tracking-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api_main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: API_USERNAME
+        value: DREN00001
+      - key: API_TOKEN
+        value: 55a0808ab5ace830ebd55fe20462b64ebb13a132c1c6e50ab70a05e3b941e379
+      - key: DTC_TOKEN
+        value: LUGW24VH1NVLTCP51287S9WJXY4EMSKAKRZYDDMC873BFQHZEA3TNFGP5JXQ966U

@@ -1,0 +1,178 @@
+Model_Q,Model,Brand,Batt_voltage,Type,Powered,Tank_capacity
+1100SJ,1100SJ,JLG,12,Boom-lift,Petrol,237
+1250AJP,1250AJP,JLG,12,Boom-lift,Petrol,117
+1350SJP,1350SJP,JLG,12,Boom-lift,Petrol,117
+1230ES,1230ES,JLG,24,Mast-lift,Electric,0
+1200SJP,1200SJP,JLG,12,Boom-lift,Petrol,200
+1500AJP,1500AJP,JLG,12,Boom-lift,Petrol,170
+15MVL,15MVL,JLG,12,Personal-lift,Electric,0
+18RS,18RS,JLG,24,Scissor-lift,Electric,0
+1930ES,1930ES,JLG,24,Scissor-lift,Electric,0
+1932R,1932R,JLG,24,Scissor-lift,Electric,0
+2030ES,2030ES,JLG,24,Scissor-lift,Electric,0
+2030ESModifyTo2630ES,2030ES Modify To 2630ES,JLG,48,Scissor-lift,Electric,0
+20MVL,20MVL,JLG,12,Personal-lift,Electric,0
+24RS,24RS,JLG,12,Boom-lift,Petrol,0
+2630ES,2630ES,JLG,48,Scissor-lift,Electric,0
+2646ES,2646ES,JLG,24,Scissor-lift,Electric,0
+3246ES,3246ES,JLG,24,Scissor-lift,Electric,0
+3246R,3246R,JLG,24,Scissor-lift,Electric,0
+3509D,3509D,JLG,12,Forklift,Petrol,0
+4045R,4045R,JLG,24,Scissor-lift,Electric,0
+4069LE,4069LE,JLG,48,Scissor-lift,Electric,0
+4069LEModifyTo4669LE,4069LE Modify To 4669LE,JLG,48,Scissor-lift,Electric,0
+41AM,41AM,JLG,12,Personal-lift,Electric,0
+450AJ,450AJ,JLG,12,Boom-lift,Petrol,64.3
+450AJSII,450AJ SII,JLG,12,Boom-lift,Petrol,64.3
+460SJ,460SJ,JLG,12,Boom-lift,Petrol,98.4
+510AJ,510AJ,JLG,12,Boom-lift,Petrol,64.3
+510AJ4WD,510AJ4WD,JLG,12,Boom-lift,Petrol,64.3
+600AJ,600AJ,JLG,12,Boom-lift,Petrol,113.6
+600SC,600SC,JLG,12,Boom-lift,Petrol,147.6
+660SJ,660SJ,JLG,12,Boom-lift,Petrol,147.6
+660SJC,660SJC,JLG,12,Boom-lift,Petrol,147.6
+800A,800A,JLG,12,Boom-lift,Petrol,147.6
+800AJ,800AJ,JLG,12,Boom-lift,Petrol,147.6
+800S,800S,JLG,12,Boom-lift,Petrol,117
+860SJ,860SJ,JLG,12,Boom-lift,Petrol,117
+E18MJ,E18MJ,JLG,24,Personal-lift,Electric,0
+E26MJ,E26MJ,JLG,24,Personal-lift,Electric,0
+E300AJP,E300AJP,JLG,48,Boom-lift,Electric,0
+E33MJ,E33MJ,JLG,24,Personal-lift,Electric,0
+E400AJPN,E400AJPN,JLG,48,Boom-lift,Electric,0
+E450AJ,E450AJ,JLG,48,Boom-lift,Electric,0
+E600,E600,JLG,48,Boom-lift,Electric,0
+E600JP,E600JP,JLG,48,Boom-lift,Electric,0
+EC600SJ,EC600SJ,JLG,48,Boom-lift,Electric,0
+ES1932,ES1932,JLG,24,Scissor-lift,Electric,0
+ES2632,ES2632,JLG,24,Scissor-lift,Electric,0
+ES3246,ES3246,JLG,24,Scissor-lift,Electric,0
+ETV214,ETV 214,Jungheinrich,24,Forklift,Electric,0
+GS2646,GS2646,Genie,24,Scissor-lift,Electric,0
+GS3246,GS3246,Genie,24,Scissor-lift,Electric,0
+HL-190E12,HL-190 E12,Holland Lift,48,Scissor-lift,Electric,0
+HL-220E25,HL-220 E25,Holland Lift,48,Scissor-lift,Electric,0
+M4069,M4069,JLG,48,Scissor-lift,Electric,0
+M600,M600,JLG,48,Boom-lift,Electric,0
+M600J,M600J,JLG,48,Boom-lift,Electric,0
+M600JP,M600JP,JLG,48,Boom-lift,Electric,0
+QY25K5-I,QY25K5-I,XCMG,12,Crane,Petrol,0
+R4045,R4045,JLG,24,Scissor-lift,Electric,0
+TOUCAN10E,TOUCAN 10E,JLG,24,Mast-lift,Electric,0
+TOUCAN12EPlus,TOUCAN 12E Plus,JLG,48,Mast-lift,Electric,0
+X33JPlus,X33J Plus,JLG,76,Boom-lift,Hybrid,0
+Z45/25,Z45/25,Genie,48,Boom-lift,Petrol,0
+Z45/25Bi-Energy,Z45/25 Bi-Energy,Genie,48,Boom-lift,Electric,0
+Z45/25J,Z45/25J,Genie,48,Boom-lift,Petrol,64
+Z45/25JDC,Z45/25J DC,Genie,48,Boom-lift,Electric,0
+ZX140W-3F,ZX140W -3F,Hitachi,12,Excavator,Petrol,0
+320CU,320CU,Caterpillar,12,Excavator,Petrol,0
+320D,320D,Caterpillar,12,Excavator,Petrol,0
+321BLCR,321B LCR,Caterpillar,12,Excavator,Petrol,0
+AWP-30S,AWP-30S,Genie,12,Personal-lift,Electric,0
+AWP-40S,AWP-40S,Genie,12,Personal-lift,Electric,0
+SP21A,SP21A,Aichi,12,Boom-lift,Petrol,150
+BOOM25M,BOOM25M,Aichi,12,Boom-lift,Petrol,0
+CAT313,CAT313,Caterpillar,12,Excavator,Petrol,250
+CAT320,CAT320,Caterpillar,12,Excavator,Petrol,364
+CAT320BU,CAT320BU,Caterpillar,12,Excavator,Petrol,364
+CAT322CL,CAT322CL,Caterpillar,12,Excavator,Petrol,470
+CAT322C,CAT322C,Caterpillar,12,Excavator,Petrol,470
+CAT320C,CAT320C,Caterpillar,12,Excavator,Petrol,364
+CAT320CU,CAT320CU,Caterpillar,12,Excavator,Petrol,364
+CAT321BCR,CAT321BCR,Caterpillar,12,Excavator,Petrol,0
+CRANE8T,CRANE8T,Tadano,24,Crane,Petrol,0
+GAL737,GAL737,Genie,12,Telehandler,Petrol,0
+GR-15,GR-15,Genie,24,Mast-lift,Electric,0
+GR-20,GR-20,Genie,24,Mast-lift,Electric,0
+GRC-12,GRC-12,Genie,24,Mast-lift,Electric,0
+GS-1532AV/GS1932,GS-1532 AV/GS1932,Genie,24,Scissor-lift,Electric,0
+GS-1930,GS-1930,Genie,24,Scissor-lift,Electric,0
+GS-1932,GS-1932,Genie,24,Scissor-lift,Electric,0
+GS-2032,GS-2032,Genie,24,Scissor-lift,Electric,0
+GS-2032/GS2632,GS-2032/GS2632,Genie,24,Scissor-lift,Electric,0
+GS-2046,GS-2046,Genie,24,Scissor-lift,Electric,0
+GS-2632,GS-2632,Genie,24,Scissor-lift,Electric,0
+GS-2646,GS-2646,Genie,24,Scissor-lift,Electric,0
+GS-2668,GS-2668,Genie,12,Scissor-lift,Petrol,57
+GS-3246,GS-3246,Genie,24,Scissor-lift,Electric,0
+GS-3246ModifytoGS-4046,GS-3246 Modify to GS-4046,Genie,24,Scissor-lift,Electric,0
+GS-4047,GS-4047,Genie,24,Scissor-lift,Electric,0
+GS-4069,GS-4069,Genie,12,Scissor-lift,Petrol,38
+GS-4069DC,GS-4069 DC,Genie,48,Scissor-lift,Electric,0
+GS-4390RT,GS-4390RT,Genie,12,Scissor-lift,Petrol,76
+GS-4655,GS-4655,Genie,24,Scissor-lift,Electric,0
+GS-5390RT,GS-5390RT,Genie,12,Scissor-lift,Petrol,76
+GTH4017,GTH4017,Genie,12,Telehandler,Petrol,135
+GTH4514,GTH4514,Genie,12,Telehandler,Petrol,135
+140W-95,140W-95,Hyundai,12,Excavator,Petrol,0
+KH-60,KH-60,SMAC,24,Scissor-lift,Electric,0
+KH-46,KH-46,SMAC,24,Scissor-lift,Electric,0
+NPH40,NPH40,SMAC,24,Personal-lift,Electric,0
+PC120-3,PC 120-3,Komatsu,24,Excavator,Petrol,0
+PC120-5,PC 120-5,Komatsu,24,Excavator,Petrol,0
+PC128US,PC 128 US,Komatsu,24,Excavator,Petrol,200
+PC128US-2,PC 128 US-2,Komatsu,24,Excavator,Petrol,200
+PC130-10M0,PC 130-10 M0,Komatsu,24,Excavator,Petrol,255
+PC130-8,PC 130-8,Komatsu,24,Excavator,Petrol,247
+PC20,PC 20,Komatsu,24,Excavator,Petrol,35
+PC200LC-8M0,PC 200LC-8 M0,Komatsu,24,Excavator,Petrol,400
+PC200-5,PC 200-5,Komatsu,24,Excavator,Petrol,0
+PC200-6,PC 200-6,Komatsu,24,Excavator,Petrol,340
+PC200-8,PC 200-8,Komatsu,24,Excavator,Petrol,400
+PC210,PC 210,Komatsu,24,Excavator,Petrol,400
+PC40,PC 40,Komatsu,24,Excavator,Petrol,0
+PC60,PC 60,Komatsu,24,Excavator,Petrol,130
+PC70-8,PC 70-8,Komatsu,24,Excavator,Petrol,130
+PC78US-5,PC 78US-5,Komatsu,24,Excavator,Petrol,125
+PC90-7,PC 90-7,Komatsu,24,Excavator,Petrol,0
+PC30MR-2,PC 30MR-2,Komatsu,12,Excavator,Petrol,44
+PW100,PW 100,Komatsu,24,Excavator,Petrol,0
+PW100-3,PW 100-3,Komatsu,24,Excavator,Petrol,0
+PW128,PW 128,Komatsu,24,Excavator,Petrol,200
+HE130,HE 130,Halla,24,Excavator,Petrol,0
+PW130-6,PW 130-6,Komatsu,24,Excavator,Petrol,247
+PW130-7,PW 130-7,Komatsu,24,Excavator,Petrol,247
+PW160-7,PW 160-7,Komatsu,24,Excavator,Petrol,300
+PW20,PW 20,Komatsu,24,Excavator,Petrol,35
+PW60,PW 60,Komatsu,24,Excavator,Petrol,130
+S-125,S-125,Genie,12,Boom-lift,Petrol,0
+S-1254WD,S-125 4WD,Genie,12,Boom-lift,Petrol,0
+S-45,S-45,Genie,12,Boom-lift,Petrol,0
+S-454WD,S-45 4WD,Genie,12,Boom-lift,Petrol,0
+S-60,S-60,Genie,12,Boom-lift,Petrol,0
+S-65,S-65,Genie,12,Boom-lift,Petrol,0
+S-654WD,S-65 4WD,Genie,12,Boom-lift,Petrol,0
+S-80,S-80,Genie,12,Boom-lift,Petrol,0
+S-85,S-85,Genie,12,Boom-lift,Petrol,0
+S-854WD,S-85 4WD,Genie,12,Boom-lift,Petrol,0
+SK-20SR,SK-20 SR,Kobelco,0,Excavator,Petrol,27.5
+SK-30SR,SK-30 SR,Kobelco,0,Excavator,Petrol,42
+SK-30SR-2E,SK-30 SR-2E,Kobelco,0,Excavator,Petrol,42
+SP210,SP 210,Aichi,12,Boom-lift,Petrol,0
+SP150,SP 150,Aichi,12,Boom-lift,Petrol,0
+SP181,SP 181,Aichi,12,Boom-lift,Petrol,0
+SP300,SP 300,Aichi,24,Boom-lift,Petrol,0
+SR18A,SR18A,Aichi,12,Boom-lift,Petrol,150
+SR21A,SR21A,Aichi,12,Boom-lift,Petrol,150
+SV093,SV093,Aichi,12,Scissor-lift,Petrol,0
+TZ50/30,TZ50/30,Genie,24,Boom-lift,Electric,0
+XZU430,XZU430,Hino,24,Mouted Truck,Petrol,0
+Z135/70,Z135/70,Genie,12,Boom-lift,Petrol,0
+Z30/20N,Z30/20N,Genie,48,Boom-lift,Electric,0
+Z30/20NRJ,Z30/20N RJ,Genie,48,Boom-lift,Electric,0
+Z34/22BI,Z34/22 BI,Genie,48,Boom-lift,Hybrid,35.2
+Z34/22DC,Z34/22 DC,Genie,48,Boom-lift,Electric,0
+Z34/22N,Z34/22 N,Genie,48,Boom-lift,Electric,0
+Z40/23N,Z40/23 N,Genie,48,Boom-lift,Electric,0
+Z45/25DC,Z45/25 DC,Genie,48,Boom-lift,Electric,0
+Z51,Z51,Genie,12,Boom-lift,Petrol,64
+Z60/34,Z60/34,Genie,12,Boom-lift,Petrol,75.7
+Z60/34DC,Z60/34 DC,Genie,48,Boom-lift,Electric,0
+Z80/60,Z80/60,Genie,12,Boom-lift,Petrol,132
+NPR66L,NPR66L,Isuzu,24,Mouted Truck,Petrol,0
+NKR66E,NKR66E,Isuzu,24,Mouted Truck,Petrol,0
+NPR72L,NPR72L,Isuzu,24,Mouted Truck,Petrol,0
+FC3J,FC3J,Hino,24,Mouted Truck,Petrol,0
+NRR33G1,NRR33G1,Isuzu,24,Mouted Truck,Petrol,0
+

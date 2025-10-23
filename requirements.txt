@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+requests
+apscheduler
+fpdf
+tabulate
+python-multipart
